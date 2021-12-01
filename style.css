@@ -1,0 +1,101 @@
+/* Colors and fonts */
+
+body {
+	  background-color: #E5D8BF ;
+	  font-family: PT, monospace;	  
+	  font-size: 20px;
+	  text-align: center
+
+} 
+
+
+h1 {
+   color: white;
+   font-family: Gluten, cursive
+
+}
+
+h2 {
+   color: white;
+   font-family: PT
+}
+
+h3, h4 {
+    font-size: 35px;
+    line-height: 0,5;
+}
+
+h3  {
+    COLOR: #C2B8A3;
+	text-align: center;
+   font-family: Gluten, cursive
+}
+
+h4 {
+	color: white;
+   font-family: PT;
+}
+
+a {
+
+	text-decoration: none;
+    color: white;
+    text-align: center;
+    font-family: PT;
+    front-size: 5px;
+
+}
+
+a:hover {
+
+color: #E5D8B
+front-size: 5px
+}
+
+p {
+	 texte-justify: center;
+    texte-justify:  justify;
+}
+
+.fa-linkedin   {
+   color: white;
+
+}
+
+.fa-facebook-square {
+   color: white;
+
+}
+
+
+/* Divs, Id and classes */
+
+ div {
+    background: #C2BBA36E;
+    border: ridge white;
+    margin: 50px;
+}
+
+ #img-deco {
+   border-radius:  50%;
+   width: 200px
+
+ }
+
+ #text-blue {
+   border:  ridge white;
+   background: lightblue;
+    box-shadow: 0px 0px 20px white;
+    margin: 50px
+ }
+
+#introduction
+ font-color: white
+a #text-style {
+ front-size: 10px;
+ front-style: italic;
+ }
+
+ .font-style  {
+ 	font-style: Helvetica;
+ }
